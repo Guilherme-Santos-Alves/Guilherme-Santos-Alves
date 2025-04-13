@@ -1,6 +1,15 @@
+#  Guilherme Santos
+
+**`Desenvolvedor de Software`**
+- Experiência de desenvolvimento com Java e Angular
+- Ciência da Computação 2/8
+
+---
+
+### 🧰 Languages and Tools
+
 [![My Skills](https://skillicons.dev/icons?i=java,angular,ts,js,html,css,mysql)](https://skillicons.dev)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Santos-Alves&show_icons=true&theme=radical)
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Santos-Alves&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 --->
