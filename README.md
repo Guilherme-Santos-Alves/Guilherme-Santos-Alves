@@ -1,6 +1,7 @@
 #  Guilherme Santos
 
-**`Desenvolvedor de Software`**
+### `Desenvolvedor de Software`
+
 - Experiência de desenvolvimento com Java e Angular
 - Ciência da Computação 2/8
 
