@@ -10,6 +10,14 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,angular,ts,js,mysql,html,css)](https://skillicons.dev)
 
+###  Contato
+
+ <div style="display: inline-block">
+   <ul>
+     <li><a href="https://www.linkedin.com/in/guilherme-santos-alves-50088b1a8/">LinkedIn</a></li>
+   </ul>
+ </div>
+
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Santos-Alves&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 --->
