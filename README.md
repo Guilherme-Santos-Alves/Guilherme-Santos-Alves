@@ -6,9 +6,9 @@
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Linguagens e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=java,angular,ts,js,html,css,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,ts,js,mysql,html,css)](https://skillicons.dev)
 
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Santos-Alves&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
