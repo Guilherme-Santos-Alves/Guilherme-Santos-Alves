@@ -11,6 +11,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,angular,ts,js,mysql,html,css)](https://skillicons.dev)
 
+---
+
 ###  Contato
 
  <div style="display: inline-block">
