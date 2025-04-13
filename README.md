@@ -15,7 +15,7 @@
 
  <div style="display: inline-block">
    <ul>
-     <li><a href="https://www.linkedin.com/in/guilherme-santos-alves-50088b1a8/">LinkedIn</a></li>
+     <li><a target="_blank" href="https://www.linkedin.com/in/guilherme-santos-alves-50088b1a8/">LinkedIn</a></li>
    </ul>
  </div>
 
