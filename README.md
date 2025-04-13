@@ -6,7 +6,7 @@
 
 ---
 
-### 🧰 Linguagens e Ferramentas
+###  Linguagens e Ferramentas
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,angular,ts,js,mysql,html,css)](https://skillicons.dev)
 
