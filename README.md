@@ -9,7 +9,8 @@
 
 ###  Linguagens e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,ts,js,mysql,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,net,angular,ts,js,mysql,html,css)](https://skillicons.dev)
+
 
 ---
 
