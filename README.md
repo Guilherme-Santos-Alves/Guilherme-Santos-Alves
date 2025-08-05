@@ -2,8 +2,8 @@
 
 ### `Desenvolvedor de Software`
 
-- Experiência de desenvolvimento com Java e Angular
-- Ciência da Computação 2/8
+- Experiência de desenvolvimento com C# e Angular
+- Ciência da Computação 3/8
 
 ---
 
